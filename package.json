@@ -1,0 +1,22 @@
+{
+  "name": "testing",
+  "version": "0.1.0",
+  "source": "src/index.html",
+  "private": true,
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "lodash": "^4.17.21",
+    "react": "^18.1.0",
+    "react-async-hook": "^4.0.0",
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.5.0",
+    "process": "^0.11.10"
+  }
+}
